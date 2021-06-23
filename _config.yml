@@ -1,2 +1,3 @@
 markdown: kramdown
 theme: jekyll-text-theme
+text_skin: "dark"
