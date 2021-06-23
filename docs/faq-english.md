@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Diabetes FAQ"
 permalink: /faq/en/
+---
 
 # What is Type 2 Diabetes
 Type 2 diabetes is an impairment in the way the body regulates and uses sugar (glucose) as a fuel. This long-term (chronic) condition results in too much sugar circulating in the bloodstream. Eventually, high blood sugar levels can lead to disorders of the circulatory, nervous and immune systems.
