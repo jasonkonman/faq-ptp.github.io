@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Diabetes FAQ EN"
-permalink: /faq/en/
+title: "Diabetes FAQ HE"
+permalink: /faq/he/
 ---
 
 # What is Type 2 Diabetes?
